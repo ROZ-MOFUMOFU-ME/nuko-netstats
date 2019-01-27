@@ -4,7 +4,7 @@ Nekonium Network Stats
 
 This is a visual interface for tracking ethereum network status. It uses WebSockets to receive stats from running nodes and output them through an angular interface. It is the front-end implementation for [nuko-net-intelligence-api](https://github.com/ROZ-MOFUMOFU-ME/nuko-net-intelligence-api).
 
-![Screenshot](https://raw.githubusercontent.com/cubedro/eth-netstats/master/src/images/screenshot.jpg?v=0.0.6 "Screenshot")
+![stats](https://user-images.githubusercontent.com/35634920/51804884-67ee5200-22a9-11e9-83fd-c3f84725a2cf.png)
 
 ## Prerequisite
 * node
