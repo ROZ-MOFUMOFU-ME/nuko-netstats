@@ -1,6 +1,6 @@
 {
-  "name": "eth-netstats",
-  "description": "Ethereum Network Intelligence dashboard",
+  "name": "nuko-netstats",
+  "description": "Nekonium Network Intelligence dashboard",
   "version": "0.0.9",
   "private": true,
   "engines": {
@@ -11,6 +11,7 @@
     "start": "node ./bin/www"
   },
   "dependencies": {
+    "acorn": "^6.0.6"
     "body-parser": "^1.18.3",
     "chalk": "^2.4.1",
     "d3": "3.5.17",
