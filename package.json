@@ -1,6 +1,6 @@
 {
-  "name": "nuko-netstats",
-  "description": "Nekonium Network Intelligence dashboard",
+  "name": "eth-netstats",
+  "description": "Ethereum Network Intelligence dashboard",
   "version": "0.0.9",
   "private": true,
   "engines": {
